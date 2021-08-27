@@ -1,2 +1,4 @@
-2021-08-27 09:28:46,201 INFO program started
-2021-08-27 09:28:51,033 INFO program ended
+2021-08-27 10:23:22,881 INFO program started
+2021-08-27 10:23:22,891 INFO connection established to default datatbase
+2021-08-27 10:23:22,898 INFO closing connection to default database
+2021-08-27 10:23:22,899 INFO program ended
